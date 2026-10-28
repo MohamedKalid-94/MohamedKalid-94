@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohamed Kalid
 
-<!--
-**MohamedKalid-94/MohamedKalid-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded systems engineer with 8 years of experience, moving into AI engineering.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building skills in ML, NLP, LLMs, RAG and agentic AI
+- Learning to build interfaces and backends for AI applications
+
+## Featured project
+
+**[HTML for AI Engineers](https://github.com/MohamedKalid-94/html-for-ai-engineers)**
+A 12-module portfolio covering semantic HTML, forms, JavaScript, browser APIs
+(WebSocket, SSE, IndexedDB), accessibility (Lighthouse 40 to 100) and a FastAPI
+streaming backend.
+[Live site](https://mohamedkalid-94.github.io/html-for-ai-engineers/)
+
+## Tech
+
+Python · FastAPI · JavaScript · HTML/CSS · LangChain · LangGraph
