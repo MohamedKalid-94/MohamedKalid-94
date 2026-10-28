@@ -15,6 +15,9 @@ A 12-module portfolio covering semantic HTML, forms, JavaScript, browser APIs
 streaming backend.
 [Live site](https://mohamedkalid-94.github.io/html-for-ai-engineers/)
 
+**[SQL for AI Engineers](https://github.com/MohamedKalid-94/sql_for_ai_engineers)**
+10-module SQL portfolio using Python's sqlite3, with a module runner and CI.
+  
 ## Tech
 
 Python · FastAPI · JavaScript · HTML/CSS · LangChain · LangGraph
